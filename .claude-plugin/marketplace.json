@@ -1,0 +1,14 @@
+{
+  "name": "biri",
+  "owner": {
+    "name": "BIRI",
+    "email": "adminx@planetary.blue"
+  },
+  "description": "BIRI™ plugin for Claude — cited answers from a curated, human-rated reference library.",
+  "plugins": [
+    {
+      "name": "biri",
+      "source": "./"
+    }
+  ]
+}

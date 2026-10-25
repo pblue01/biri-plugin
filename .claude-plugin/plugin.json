@@ -1,0 +1,20 @@
+{
+  "name": "biri",
+  "displayName": "BIRI™",
+  "version": "0.2.0",
+  "description": "Answer questions with citations from BIRI™'s curated, human-rated reference library. Claude extracts keywords from the user's question, searches BIRI™, fetches the top curated sources, and synthesizes a cited answer.",
+  "author": {
+    "name": "BIRI",
+    "url": "https://biribckd.planetary.blue"
+  },
+  "homepage": "https://biribckd.planetary.blue",
+  "license": "MIT",
+  "keywords": [
+    "biri",
+    "curated-search",
+    "citations",
+    "reference-library",
+    "research"
+  ],
+  "repository": "https://github.com/pblue01/biri-plugin"
+}
