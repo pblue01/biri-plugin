@@ -51,7 +51,8 @@ have left?" at any time.
 - **What else happens:** Claude fetches the public web pages of the
   references BIRI&trade; returns, using its own web-fetch tool.
 
-Nothing is sent to any other service. You can disconnect the connector at any
+Nothing is sent to any other service. Full details are in the
+[Privacy Policy](https://biri.blue/privacy-policy/). You can disconnect the connector at any
 time, and revoking your access in your BIRI&trade; account takes effect on the
 next request.
 

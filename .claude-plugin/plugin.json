@@ -1,7 +1,7 @@
 {
   "name": "biri",
   "displayName": "BIRI™",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Answer questions with citations from BIRI™'s curated, human-rated reference library. Claude extracts keywords from the user's question, searches BIRI™, fetches the top curated sources, and synthesizes a cited answer.",
   "author": {
     "name": "BIRI",
@@ -16,5 +16,7 @@
     "reference-library",
     "research"
   ],
-  "repository": "https://github.com/pblue01/biri-plugin"
+  "repository": "https://github.com/pblue01/biri-plugin",
+  "privacyPolicyUrl": "https://biri.blue/privacy-policy/",
+  "icon": "./.claude-plugin/icon.png"
 }
